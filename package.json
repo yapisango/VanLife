@@ -1,5 +1,5 @@
 {
-  "name": "Scrim-s04t8g7",
+  "name": "vanlife",
   "description": "https://scrimba.com/frontend-path-c0j/~0149",
   "scripts": {
     "start": "vite",
@@ -8,11 +8,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "miragejs": "^0.1.48",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-router-dom": "6.4.3",
-    "miragejs": "0.1.46",
     "react-icons": "4.7.1",
+    "react-router-dom": "6.4.3",
     "vite": "latest"
   },
   "devDependencies": {
